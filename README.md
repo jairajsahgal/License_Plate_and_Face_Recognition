@@ -19,3 +19,7 @@ Using opencv , harrcascade to detect license plate and pytesseract to capture th
 3. Independent functions not based on library.
 
 ### Working of project has not been shown because of privacy issues.
+
+## Contributors
+1. Nishtha Shukla
+2. Prasoon Mehra
